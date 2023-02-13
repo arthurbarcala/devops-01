@@ -1,4 +1,6 @@
 def main():
+    variavelInexistente = "aiaiaiaiaiai"
+    
     print("Hello World")
     print(variavelInexistente)
     
